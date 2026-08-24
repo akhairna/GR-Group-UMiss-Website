@@ -1,6 +1,6 @@
 ---
 generated: true
-title: "Observation of Gravitational Waves from the Coalescence of a 2.5–4.5 <i>M</i> <sub>⊙</sub> Compact Object and a Neutron Star"
+title: "Observation of Gravitational Waves from the Coalescence of a 2.5–4.5 M ⊙ Compact Object and a Neutron Star"
 date: "2024-07-26"
 year: 2024
 authors_display: "Adrian Abac, R. Abbott, I. Abouelfettouh, F Acernese, K. Ackley, S Adhicary, N Adhikari, R.X Adhikari, and 92 collaborators"
@@ -13,7 +13,7 @@ pages: "L34"
 doi: "10.3847/2041-8213/ad5beb"
 arxiv: ""
 openalex: "https://openalex.org/W4394590979"
-pdf: "https://iopscience.iop.org/article/10.3847/2041-8213/ad5beb/pdf"
+pdf: "https://pure-oai.bham.ac.uk/ws/files/234265324/AbacA2024Observation.pdf"
 work_type: "article"
 ---
 

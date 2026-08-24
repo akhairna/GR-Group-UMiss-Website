@@ -1,6 +1,6 @@
 ---
 generated: true
-title: "Bombelli<i>et al</i>. reply"
+title: "Bombelliet al. reply"
 date: "1988-02-15"
 year: 1988
 authors_display: "L. Bombelli, Joohan Lee, David Meyer, Rafael D. Sorkin"

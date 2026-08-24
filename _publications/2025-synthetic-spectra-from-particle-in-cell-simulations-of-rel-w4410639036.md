@@ -13,7 +13,7 @@ pages: "1043"
 doi: "10.1093/mnras/staf626"
 arxiv: "2404.07392"
 openalex: "https://openalex.org/W4410639036"
-pdf: "https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/staf626/63310599/staf626.pdf"
+pdf: "https://arxiv.org/pdf/2404.07392"
 work_type: "article"
 ---
 

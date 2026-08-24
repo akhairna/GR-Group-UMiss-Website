@@ -13,7 +13,7 @@ pages: ""
 doi: "10.1103/29y5-nx9y"
 arxiv: "2511.17341"
 openalex: "https://openalex.org/W7167593409"
-pdf: "https://arxiv.org/pdf/2511.17341"
+pdf: "http://arxiv.org/pdf/2511.17341"
 work_type: "article"
 ---
 

@@ -1,6 +1,6 @@
 ---
 generated: true
-title: "GW231123: A Binary Black Hole Merger with Total Mass 190–265 <i>M</i> <sub>⊙</sub>"
+title: "GW231123: A Binary Black Hole Merger with Total Mass 190–265 M ⊙"
 date: "2025-10-27"
 year: 2025
 authors_display: "Adrian Abac, I. Abouelfettouh, F. Acernese, K. Ackley, Christian Adamcewicz, S. Adhicary, Dadhi Adhikari, N. Adhikari, and 92 collaborators"
@@ -13,7 +13,7 @@ pages: "L25"
 doi: "10.3847/2041-8213/ae0c9c"
 arxiv: ""
 openalex: "https://openalex.org/W4415620163"
-pdf: "https://pure-oai.bham.ac.uk/ws/files/281861843/AbacAG2025GW231123.pdf"
+pdf: "https://orca.cardiff.ac.uk/id/eprint/182086/1/Abac_2025_ApJL_993_L25.pdf"
 work_type: "article"
 ---
 

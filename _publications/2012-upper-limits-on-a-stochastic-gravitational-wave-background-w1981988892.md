@@ -1,6 +1,6 @@
 ---
 generated: true
-title: "Upper limits on a stochastic gravitational-wave background using LIGO and Virgo interferometers at 600–1000 Hz"
+title: "Upper limits on a stochastic gravitational-wave background using LIGO and Virgo interferometers at 600–1000 Hz"
 date: "2012-06-04"
 year: 2012
 authors_display: "J. Abadie, B. P. Abbott, R. Abbott, T. D. Abbott, M. R. Abernathy, T. Accadia, F. Acernese, C. Adams, and 92 collaborators"

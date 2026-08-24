@@ -13,7 +13,7 @@ pages: "171401"
 doi: "10.1103/2brx-xnyr"
 arxiv: "2412.06887"
 openalex: "https://openalex.org/W4415402972"
-pdf: "https://arxiv.org/pdf/2412.06887"
+pdf: "http://arxiv.org/pdf/2412.06887"
 work_type: "article"
 ---
 

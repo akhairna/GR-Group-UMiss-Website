@@ -1,6 +1,6 @@
 ---
 generated: true
-title: "Link between quantum measurement and the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mi mathvariant=\"normal\">i</mml:mi><mml:mi>ε</mml:mi></mml:mrow></mml:math>term in the quantum field theory propagator"
+title: "Link between quantum measurement and the iε term in the quantum field theory propagator"
 date: "2014-12-22"
 year: 2014
 authors_display: "Roman Sverdlov, L. Bombelli"

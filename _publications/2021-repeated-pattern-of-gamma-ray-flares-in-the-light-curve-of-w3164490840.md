@@ -1,6 +1,6 @@
 ---
 generated: true
-title: "Repeated pattern of gamma-ray flares in the light curve of the blazar 3C 279"
+title: "Repeated pattern of gamma-ray flares in the light curve of the blazar 3C 279"
 date: "2021-05-21"
 year: 2021
 authors_display: "D. Blinov, Svetlana G. Jorstad, V. M. Larionov, Nicholas R. MacDonald, T. S. Grishina, E. N. Kopatskaya, Е. Г. Ларионова, L. V. Larionova, and 5 collaborators"

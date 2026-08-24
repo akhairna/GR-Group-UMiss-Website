@@ -13,7 +13,7 @@ pages: ""
 doi: "10.1007/jhep12(2024)051"
 arxiv: "2402.13327"
 openalex: "https://openalex.org/W4392083957"
-pdf: "https://link.springer.com/content/pdf/10.1007/JHEP12(2024)051.pdf"
+pdf: "http://arxiv.org/pdf/2402.13327"
 work_type: "article"
 ---
 

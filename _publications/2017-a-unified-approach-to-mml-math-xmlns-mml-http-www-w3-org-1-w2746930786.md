@@ -1,6 +1,6 @@
 ---
 generated: true
-title: "A unified approach to <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msup><mml:mi>χ</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:math> discriminators for searches of gravitational waves from compact binary coalescences"
+title: "A unified approach to χ2 discriminators for searches of gravitational waves from compact binary coalescences"
 date: "2017-11-21"
 year: 2017
 authors_display: "Sanjeev Dhurandhar, Anuradha Gupta, B. U. Gadre, S. Bose"

@@ -13,7 +13,7 @@ pages: "191"
 doi: "10.3847/1538-4357/ad3e83"
 arxiv: "2304.08393"
 openalex: "https://openalex.org/W4401193885"
-pdf: "https://iopscience.iop.org/article/10.3847/1538-4357/ad3e83/pdf"
+pdf: "https://arxiv.org/pdf/2304.08393"
 work_type: "article"
 ---
 

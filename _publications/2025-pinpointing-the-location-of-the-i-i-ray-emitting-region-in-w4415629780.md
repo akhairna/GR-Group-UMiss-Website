@@ -1,6 +1,6 @@
 ---
 generated: true
-title: "Pinpointing the location of the <i>γ</i> -ray emitting region in the FSRQ 4C +01.28"
+title: "Pinpointing the location of the γ -ray emitting region in the FSRQ 4C +01.28"
 date: "2025-10-28"
 year: 2025
 authors_display: "F. Rösch, M. Kadler, E. Ros, L. Ricci, Mark Gurwell, T. Hovatta, Nicholas R. MacDonald, A.C.S. Readhead"
@@ -13,7 +13,7 @@ pages: "A143"
 doi: "10.1051/0004-6361/202556231"
 arxiv: ""
 openalex: "https://openalex.org/W4415629780"
-pdf: ""
+pdf: "https://www.utupub.fi/bitstream/10024/196697/1/aa56231-25.pdf"
 work_type: "article"
 ---
 

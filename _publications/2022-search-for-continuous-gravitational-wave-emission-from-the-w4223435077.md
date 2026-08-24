@@ -1,6 +1,6 @@
 ---
 generated: true
-title: "Search for continuous gravitational wave emission from the Milky Way center in O3 LIGO-Virgo data"
+title: "Search for continuous gravitational wave emission from the Milky Way center in O3 LIGO-Virgo data"
 date: "2022-08-09"
 year: 2022
 authors_display: "R. Abbott, H. Abe, F. Acernese, K. Ackley, N. Adhikari, R. X. Adhikari, V. K. Adkins, V. B. Adya, and 92 collaborators"

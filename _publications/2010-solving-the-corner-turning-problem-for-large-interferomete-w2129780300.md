@@ -13,7 +13,7 @@ pages: "no"
 doi: "10.1111/j.1365-2966.2010.17587.x"
 arxiv: "0910.1351"
 openalex: "https://openalex.org/W2129780300"
-pdf: "https://academic.oup.com/mnras/article-pdf/410/3/2075/2876139/mnras0410-2075.pdf"
+pdf: "https://arxiv.org/pdf/0910.1351"
 work_type: "article"
 ---
 

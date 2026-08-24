@@ -13,7 +13,7 @@ pages: "A233"
 doi: "10.1051/0004-6361/202452600"
 arxiv: "2501.05518"
 openalex: "https://openalex.org/W4406354928"
-pdf: "https://www.aanda.org/articles/aa/pdf/2025/03/aa52600-24.pdf"
+pdf: "https://www.aanda.org/articles/aa/pdf/forth/aa52600-24.pdf"
 work_type: "article"
 ---
 

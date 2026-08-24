@@ -1,6 +1,6 @@
 ---
 generated: true
-title: "Demographics of black holes at $&lt;$100 R$_{\\rm g}$ scales: accretion flows, jets, and shadows"
+title: "Demographics of black holes at $<$100 R$_{\\rm g}$ scales: accretion flows, jets, and shadows"
 date: "2024-12-28"
 year: 2024
 authors_display: "Dhanya G. Nair, Neil M. Nagar, Venkatessh Ramakrishnan, Maciek Wielgus, Vicente Arratia, T. P. Krichbaum, X. Zhang, Angelo Ricarte, and 82 collaborators"

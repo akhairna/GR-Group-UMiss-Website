@@ -13,7 +13,7 @@ pages: "073032"
 doi: "10.1088/1367-2630/11/7/073032"
 arxiv: ""
 openalex: "https://openalex.org/W2153585237"
-pdf: "https://iopscience.iop.org/article/10.1088/1367-2630/11/7/073032/pdf"
+pdf: "https://orca.cardiff.ac.uk/id/eprint/22535/1/Observation_of_a_kilogram_scale.pdf"
 work_type: "article"
 ---
 
