@@ -14,7 +14,7 @@ doi: "10.1088/1361-6382/ae59e2"
 arxiv: ""
 openalex: "https://openalex.org/W4411330293"
 pdf: ""
-work_type: "article"
+work_type: "review"
 ---
 
 <!-- This file is maintained by scripts/fetch_publications.py. -->

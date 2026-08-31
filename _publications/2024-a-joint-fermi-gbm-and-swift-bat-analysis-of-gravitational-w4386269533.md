@@ -13,7 +13,7 @@ pages: "149"
 doi: "10.3847/1538-4357/ad1eed"
 arxiv: ""
 openalex: "https://openalex.org/W4386269533"
-pdf: "https://open.metu.edu.tr/bitstream/handle/11511/113225/Fletcher_2024_ApJ_964_149.pdf"
+pdf: "https://researchoutput.csu.edu.au/files/544062874/473004979_Published_article.pdf"
 work_type: "article"
 ---
 

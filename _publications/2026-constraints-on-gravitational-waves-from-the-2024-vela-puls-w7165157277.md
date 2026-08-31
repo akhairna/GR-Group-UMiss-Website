@@ -13,7 +13,7 @@ pages: "12"
 doi: "10.3847/1538-4357/ae63bc"
 arxiv: ""
 openalex: "https://openalex.org/W7165157277"
-pdf: "https://eprints.gla.ac.uk/389202/1/389202.pdf"
+pdf: "https://scholarworks.utrgv.edu/context/pa_fac/article/1887/viewcontent/Abac_2026_ApJ_1005_12.pdf"
 work_type: "article"
 ---
 

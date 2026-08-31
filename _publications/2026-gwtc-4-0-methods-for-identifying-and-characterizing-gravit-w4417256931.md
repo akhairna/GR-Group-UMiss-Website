@@ -13,7 +13,7 @@ pages: "L21"
 doi: "10.3847/2041-8213/ae447b"
 arxiv: ""
 openalex: "https://openalex.org/W4417256931"
-pdf: "https://pure-oai.bham.ac.uk/ws/files/307707035/AbacAG2026GWTC4.0.pdf"
+pdf: "https://orbi.uliege.be/bitstream/2268/346824/1/Abac_2026_ApJL_1004_L21.pdf"
 work_type: "article"
 ---
 

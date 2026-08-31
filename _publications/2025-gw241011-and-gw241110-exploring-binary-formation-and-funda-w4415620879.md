@@ -13,7 +13,7 @@ pages: "L21"
 doi: "10.3847/2041-8213/ae0d54"
 arxiv: ""
 openalex: "https://openalex.org/W4415620879"
-pdf: ""
+pdf: "https://pure.uva.nl/ws/files/326614845/Abac_2025_ApJL_993_L21.pdf"
 work_type: "article"
 ---
 

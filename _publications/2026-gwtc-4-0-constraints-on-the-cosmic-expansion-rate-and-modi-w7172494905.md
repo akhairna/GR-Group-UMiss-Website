@@ -13,7 +13,7 @@ pages: "L17"
 doi: "10.3847/2041-8213/ae69dd"
 arxiv: ""
 openalex: "https://openalex.org/W7172494905"
-pdf: ""
+pdf: "https://researchoutput.csu.edu.au/files/631333826/631113930_Published_article.pdf"
 work_type: "article"
 ---
 

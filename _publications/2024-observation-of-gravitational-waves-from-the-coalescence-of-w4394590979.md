@@ -13,7 +13,7 @@ pages: "L34"
 doi: "10.3847/2041-8213/ad5beb"
 arxiv: ""
 openalex: "https://openalex.org/W4394590979"
-pdf: "https://pure-oai.bham.ac.uk/ws/files/234265324/AbacA2024Observation.pdf"
+pdf: "https://lirias.kuleuven.be/retrieve/98ac8bbe-1e13-4a3e-a8ab-3aa39efd0d9c"
 work_type: "article"
 ---
 
