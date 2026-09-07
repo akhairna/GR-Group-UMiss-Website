@@ -11,9 +11,9 @@ volume: "993"
 issue: "1"
 pages: "L21"
 doi: "10.3847/2041-8213/ae0d54"
-arxiv: ""
+arxiv: "2510.26931"
 openalex: "https://openalex.org/W4415620879"
-pdf: "https://pure.uva.nl/ws/files/326614845/Abac_2025_ApJL_993_L21.pdf"
+pdf: "https://arxiv.org/pdf/2510.26931"
 work_type: "article"
 ---
 

@@ -13,7 +13,7 @@ pages: "L21"
 doi: "10.3847/2041-8213/ae447b"
 arxiv: ""
 openalex: "https://openalex.org/W4417256931"
-pdf: "https://orbi.uliege.be/bitstream/2268/346824/1/Abac_2026_ApJL_1004_L21.pdf"
+pdf: "https://myresearchspace.uws.ac.uk/ws/files/76843442/2026_02_06_Abac_et_al_Transients_final.pdf"
 work_type: "article"
 ---
 

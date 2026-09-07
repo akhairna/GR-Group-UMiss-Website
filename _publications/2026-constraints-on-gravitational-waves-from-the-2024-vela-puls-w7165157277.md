@@ -13,7 +13,7 @@ pages: "12"
 doi: "10.3847/1538-4357/ae63bc"
 arxiv: ""
 openalex: "https://openalex.org/W7165157277"
-pdf: "https://scholarworks.utrgv.edu/context/pa_fac/article/1887/viewcontent/Abac_2026_ApJ_1005_12.pdf"
+pdf: "https://myresearchspace.uws.ac.uk/ws/files/76844403/2026_04_04_Abac_et_al_Constraints_final.pdf"
 work_type: "article"
 ---
 

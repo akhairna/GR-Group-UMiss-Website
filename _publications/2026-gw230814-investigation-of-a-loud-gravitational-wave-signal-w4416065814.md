@@ -13,7 +13,7 @@ pages: "L23"
 doi: "10.3847/2041-8213/ae2ad3"
 arxiv: ""
 openalex: "https://openalex.org/W4416065814"
-pdf: ""
+pdf: "https://hdl.handle.net/21.11116/0000-0013-3CE6-5"
 work_type: "article"
 ---
 

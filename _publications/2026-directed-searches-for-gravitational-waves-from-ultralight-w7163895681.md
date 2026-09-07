@@ -13,7 +13,7 @@ pages: ""
 doi: "10.1103/mjfs-m6t7"
 arxiv: ""
 openalex: "https://openalex.org/W7163895681"
-pdf: "https://myresearchspace.uws.ac.uk/ws/files/78638414/2026_06_08_Abac_et_al_Ultralight_final.pdf"
+pdf: ""
 work_type: "article"
 ---
 

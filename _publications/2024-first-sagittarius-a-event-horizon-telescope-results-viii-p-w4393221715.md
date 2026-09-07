@@ -13,7 +13,7 @@ pages: "L26"
 doi: "10.3847/2041-8213/ad2df1"
 arxiv: ""
 openalex: "https://openalex.org/W4393221715"
-pdf: "https://www.osti.gov/servlets/purl/2468664"
+pdf: "https://clok.uclan.ac.uk/id/eprint/51074/1/Akiyama_2024_ApJL_964_L26.pdf"
 work_type: "article"
 ---
 

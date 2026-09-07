@@ -3,8 +3,8 @@ generated: true
 title: "High-precision ringdown surrogate model for nonprecessing binary black holes"
 date: "2025-06-22"
 year: 2025
-authors_display: "Jonathan Blackman, Matteo Boschini, Michael Boyle, Guido Da Re, Scott E. Field, B. U. Gadre, Chad R. Galley, Daniel A. Hemberger, and 14 collaborators"
-authors: ["Jonathan Blackman", "Matteo Boschini", "Michael Boyle", "Guido Da Re", "Scott E. Field", "B. U. Gadre", "Chad R. Galley", "Daniel A. Hemberger", "Jan S. Hesthaven", "Jason Kaye", "Larry Kidder", "L. Magaña Zertuche", "Keefe Mitman", "Harald Pfeiffer", "Mark Scheel", "P. Schmidt", "R. J. E. Smith", "Leo C. Stein", "Béla Szilágyi", "Manuel Tiglio", "Vijay Varma", "J. Yoo"]
+authors_display: "Jonathan Blackman, Matteo Boschini, Michael Boyle, Guido Da Re, Scott E. Field, B. U. Gadre, Chad R. Galley, Daniel A. Hemberger, and 15 collaborators"
+authors: ["Jonathan Blackman", "Matteo Boschini", "Michael Boyle", "Guido Da Re", "Scott E. Field", "B. U. Gadre", "Chad R. Galley", "Daniel A. Hemberger", "Jan S. Hesthaven", "Jason Kaye", "Larry Kidder", "L. Magaña Zertuche", "Keefe Mitman", "Harald Pfeiffer", "A G Ravishankar", "Mark Scheel", "P. Schmidt", "R. J. E. Smith", "Leo C. Stein", "Béla Szilágyi", "Manuel Tiglio", "Vijay Varma", "J. Yoo"]
 group_authors: ["Leo C. Stein"]
 venue: "Physical review. D/Physical review. D."
 volume: "112"

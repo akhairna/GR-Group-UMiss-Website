@@ -13,7 +13,7 @@ pages: "155"
 doi: "10.3847/1538-4357/acd770"
 arxiv: ""
 openalex: "https://openalex.org/W4221161529"
-pdf: "https://open.metu.edu.tr/bitstream/handle/11511/112508/Abbott_2023_ApJ_955_155.pdf"
+pdf: "https://www.zora.uzh.ch/id/eprint/240127/1/ZORA240127.pdf"
 work_type: "article"
 ---
 

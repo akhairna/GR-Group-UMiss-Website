@@ -13,7 +13,7 @@ pages: "L34"
 doi: "10.3847/2041-8213/ad5beb"
 arxiv: ""
 openalex: "https://openalex.org/W4394590979"
-pdf: "https://lirias.kuleuven.be/retrieve/98ac8bbe-1e13-4a3e-a8ab-3aa39efd0d9c"
+pdf: "https://air.unimi.it/bitstream/2434/1107831/2/Abac_2024_ApJL_970_L34.pdf"
 work_type: "article"
 ---
 

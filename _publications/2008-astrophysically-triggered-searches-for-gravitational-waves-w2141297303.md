@@ -11,9 +11,9 @@ volume: "25"
 issue: "11"
 pages: "114051"
 doi: "10.1088/0264-9381/25/11/114051"
-arxiv: ""
+arxiv: "0802.4320"
 openalex: "https://openalex.org/W2141297303"
-pdf: "https://strathprints.strath.ac.uk/17074/1/Abbott_etal_CQG2008_Astrophysically_triggered_searches_gravitational_waves_status_prospects.pdf"
+pdf: "https://arxiv.org/pdf/0802.4320"
 work_type: "article"
 ---
 
