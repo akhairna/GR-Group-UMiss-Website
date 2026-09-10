@@ -40,6 +40,52 @@ schedule:
     paper: Leo
     research: '-'
 
+archived_term: Spring 2026
+
+archived_schedule:
+  - date_iso: '2026-02-11'
+    paper: Seminar
+    research: Seminar
+  - date_iso: '2026-02-18'
+    paper: Subhayu
+    research: Dinis
+  - date_iso: '2026-02-25'
+    paper: Aniket
+    research: Nauman
+  - date_iso: '2026-03-04'
+    paper: Dipika
+    research: Leo
+  - date_iso: '2026-03-11'
+    paper: Spring break
+    research: Spring break
+  - date_iso: '2026-03-18'
+    paper: APS meeting
+    research: APS meeting
+  - date_iso: '2026-03-23'
+    paper: Seminar
+    research: Seminar
+  - date_iso: '2026-03-25'
+    paper: Arindam
+    research: Subhayu
+  - date_iso: '2026-04-01'
+    paper: Leo
+    research: Amitesh
+  - date_iso: '2026-04-08'
+    paper: Seminar
+    research: Seminar
+  - date_iso: '2026-04-13'
+    paper: Seminar
+    research: Seminar
+  - date_iso: '2026-04-15'
+    paper: Dinis
+    research: Arindam
+  - date_iso: '2026-04-22'
+    paper: Nauman
+    research: Dipika
+  - date_iso: '2026-04-29'
+    paper: Amitesh
+    research: Aniket
+
 contacts:
   - name: Leo Stein
     email: lcstein@olemiss.edu

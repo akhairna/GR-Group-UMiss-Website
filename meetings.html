@@ -52,6 +52,33 @@ permalink: /meetings/
     {% endif %}
   </section>
 
+  <section class="meeting-section" aria-labelledby="group-schedule-heading">
+    <div class="meeting-section-heading">
+      <div>
+        <h2 id="group-schedule-heading">{{ site.data.meetings.archived_term }} group schedule</h2>
+      </div>
+    </div>
+    <div class="schedule-table-wrap">
+      <table class="schedule-table">
+        <thead><tr><th scope="col">Date</th><th scope="col">Paper discussion</th><th scope="col">Research update</th></tr></thead>
+        {% assign sorted_meetings = site.data.meetings.archived_schedule | sort: 'date_iso' %}
+        <tbody id="group-schedule-rows">
+          {% for meeting in sorted_meetings %}
+            <tr{% if forloop.index > 5 %} data-schedule-extra{% endif %}><td>{{ meeting.date_iso | date: '%B %-d' }}</td><td>{{ meeting.paper }}</td><td>{{ meeting.research }}</td></tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% if site.data.meetings.schedule.size > 5 %}
+      {% assign extra_meetings = site.data.meetings.schedule.size | minus: 5 %}
+      <button class="schedule-more" type="button"
+      aria-controls="group-schedule-rows" aria-expanded="false"
+      data-schedule-more data-more-count="{{ extra_meetings }}"
+      data-more-label="more meetings" hidden>See {{ extra_meetings }} earlier
+      meetings</button>
+    {% endif %}
+  </section>
+
   <section class="meeting-section" aria-labelledby="seminar-schedule-heading">
     <div class="meeting-section-heading">
       <div>
